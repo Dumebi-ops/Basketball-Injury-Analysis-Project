@@ -1,5 +1,7 @@
 # Basketball Injury Analysis Project
 
+<img width="678" height="452" alt="Image" src="https://github.com/user-attachments/assets/47b6a246-7376-41ae-9fdb-5552a6603032" />
+
 ## Project Overview
 
 This project analyses injury and rehabilitation data from 100 basketball players using Microsoft Excel.
