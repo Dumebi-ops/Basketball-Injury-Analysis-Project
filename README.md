@@ -238,20 +238,3 @@ These results indicate that the variables included in these models explained onl
 
 ---
 
-## Project Structure
-
-```text
-Basketball-Injury-Analysis/
-│
-├── README.md
-│
-└── 3rd Russell J Project analysis Basket ball injury.xlsx
-    │
-    ├── Data
-    ├── Questions
-    ├── Pivot Analysis
-    ├── Corralation Question 1 and 5
-    ├── Regression Question 3 and 5
-    ├── Result Interpretation
-    ├── Visualization
-    └── Executive Summary
